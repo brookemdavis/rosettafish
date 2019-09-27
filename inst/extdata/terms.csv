@@ -95,6 +95,8 @@ Critical zone,Zone critique,NA
 Cumulative Effects Assessment Steps,Étapes de l’évaluation des effets cumulatifs,NA
 Cumulative Probability,Probabilité cumulative,NA
 Curlfin Sole,plie à nageoires frisées,NA
+CWT,MMC,NA
+CWT-Based ERI,Indice du taux d’exploitation obtenu par les MMC,NA
 CWT age,âge MMC,NA
 CWT Age,Âge MMC,NA
 Darkblotched Rockfish,sébaste tacheté,NA
@@ -117,6 +119,7 @@ Distance,Distance,NA
 Dive,Plongée,NA
 Dive survey,Relevé de plongée,NA
 DNA Stock Comp.,Compo. de l’ADN des stocks,NA
+DNA+RR,ADN+RR,NA
 Dover Sole,limande sole du Pacifique,NA
 Dusky Rockfish,sébaste cilié,NA
 Dwarf Wrymouth,terrassier nain,NA
@@ -150,13 +153,13 @@ Flathead Sole,balai du Japon,NA
 for,pour,NA
 Fork Length,Longueur à la Fourche,NA
 Fork Length (cm),Longueur à la Fourche (cm),NA
-Fraser Comm,"Pêche commerciale, fleuve Fraser",NA
+Fraser Comm.,"Pêche commerciale, fleuve Fraser",NA
 Fraser EO,"PÉ, fleuve Fraser",NA
 Fraser FSC,"Pêche ASR, fleuve Fraser",NA
 Fraser Net,"Fleuve Fraser, filet",NA
-Fraser Rec,"Pêche réc., fleuve Fraser",NA
+Fraser Rec.,"Pêche réc., fleuve Fraser",NA
 Fraser River,Fleuve Fraser,NA
-Fraser Test,"Essai, fleuve Fraser",NA
+Fraser Test,"Pêche d'essai, fleuve Fraser",NA
 Fraser Troll,"Fleuve Fraser, pêche à la traîne",NA
 Frequency,Fréquence,NA
 Gear,Engin,NA
@@ -198,7 +201,8 @@ IPHC Report of Assessment and Research Activities,Rapport de la CIFP sur les act
 IPHC survey catch rate,Taux de capture du relevé IPHC,NA
 Jan,jan,NA
 JDF,JDF,NA
-Johnstone Strait Rec.,Pêche récréative,détroit de Johnstone
+JDF Rec.,"Pêche réc.,JDF",NA
+Johnstone Strait Rec.,"Pêche réc.,détroit de Johnstone",NA
 Jul,juil,NA
 Jun,juin,NA
 Kelp Greenling,sourcil de varech,NA
@@ -250,6 +254,8 @@ MSY,RMS,NA
 MW,CP,NA
 NBC,N.C.-B.,NA
 NBC Abundance Ratio,Ratio d’abondance N.C.-B.,NA
+NBC Rec.,"Pêche réc., N.C.-B.",NA
+NBC Troll,"Pêche à la traîne, N.C.-B.",NA
 Nicola River,Ruisseau Nicola,NA
 No Status,Sans statut,NA
 North Pacific Spiny Dogfish,aiguillat commun du Pacifique Nord,NA
@@ -264,6 +270,7 @@ Number of age-2 recruits,Nombre de recrues d’âge 2,NA
 Number of hooks returned each year,Nombre d’hameçons récupérés chaque année,NA
 Objective,Objectif,NA
 Oct,oct,NA
+of age,d'âge,NA
 of size,de taille,NA
 Order,Ordre,NA
 Original,Version originale,NA
@@ -331,8 +338,9 @@ Rougheye Blackspotted Rockfish Complex,complexe du sébaste à œil épineux/sé
 Rougheye/Blackspotted,œil épineux/taches noires,NA
 Rougheye/Blackspotted Rockfish Complex,complexe du sébaste à œil épineux/sébaste à taches noires,NA
 Roughtail Skate,raie à queue rude,NA
-RR­Based ERI,Indice du taux d’exploitation basé sur la reconstitution des remontes,NA
-RR­Based ERI vs. CWT­Based ERI,Indice du taux d’exploitation fondé sur la reconstitution des remontes par rapport à un indice du taux d’exploitation obtenu par les MMC,NA
+RR,RR,NA
+RR-Based ERI,Indice du taux d’exploitation basé sur la reconstitution des remontes,NA
+RR-Based ERI vs. CWT-Based ERI,Indice du taux d’exploitation fondé sur la reconstitution des remontes par rapport à un indice du taux d’exploitation obtenu par les MMC,NA
 Run Reconstruction Model,Modèle de reconstitution des remontes,NA
 Running Ripe,Pleins et actifs,NA
 Sablefish,morue charbonnière,NA
@@ -393,12 +401,12 @@ SSB,BSR,NA
 SSB/Blim,BSR/Blim,NA
 Starry Flounder,flet étoilé,NA
 Strait of Georgia,Détroit de Georgie,NA
-Strait of Georgia Rec.,"Pêche récréative, détroit de Georgie",NA
+Strait of Georgia Rec.,"Pêche réc., détroit de Georgie",NA
 Strait of Georgia/Howe Sound Sponge Reef Closures,Fermeture des pêches dans les récifs d'éponges du détroit de Georgie et de la baie Howe,NA
 Stream-Type,Type cours d’eau,NA
 Stripetail Rockfish,sébaste à queue rayée,NA
 Sturgeon Poacher,agone-esturgeon,NA
-Summary of RR vs CWT Estimated ERI’s,Sommaire de la reconstitution des remontes par rapport\nà l’estimation de l’indice du taux d’exploitation par MMC,NA
+Summary of RR vs CWT Estimated ERI,Sommaire de la reconstitution des remontes par rapport\nà l’estimation de l’indice du taux d’exploitation par MMC,NA
 Summer,Été,NA
 Surface,Surface,NA
 Surface survey,Relevé en surface,NA
@@ -410,6 +418,7 @@ Survey relative biomass indices,Indices de la biomasse du relevés,NA
 Survey samples,Échantillons de relevé,NA
 Survey specimen counts,Décompte des spécimens du relevé,NA
 Synoptic survey biomass,Biomasse du relevé synoptique,NA
+T'aaq. Comm.,"T'aaq., pêche comm.",NA
 Technical Report,Rapport technique,NA
 Temperature,Temperature,NA
 Term Pups,Petits à la taille du terme,NA
@@ -441,7 +450,8 @@ Vulnerable biomass,Biomasse vulnerable,NA
 Walleye Pollock,goberge,NA
 Wattled Eelpout,lycode tressée,NA
 WCVI,COIV,NA
-WCVI Rec.,"Pêche récréative, COIV",NA
+WCVI Rec.,"Pêche réc., COIV",NA
+WCVI Troll,"Pêche à la traîne, COIV",NA
 Weight,Poids,NA
 Weight-at-age,Poids selon l’âge,NA
 Weight at age,Poids selon l’âge,NA
