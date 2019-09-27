@@ -25,7 +25,7 @@ Average Annual Variability,Variabilité annuelle moyenne,NA
 Average F,F moyen,NA
 Average M,M moyen,NA
 Average Proportion of ERI Attributed to Each Sector in Zone 1 Years,Proportion moyenne de l’indice du taux d’exploitation attribuée à chaque secteur dans les années de la zone 1,NA
-Average Relative Change in ERI from 2009­2011 to Zone 1 Years,Changement relatif moyen de l’indice du taux d’exploitation de 2009­2011 dans les années de la zone 1,NA
+Average Relative Change in ERI from 2009-2011 to Zone 1 Years,Changement relatif moyen de l’indice du taux d’exploitation de 2009­2011 dans les années de la zone 1,NA
 Basking Shark,requin-pèlerin,NA
 Big Skate,raie biocellée,NA
 Bigfin Eelpout,lycode à grandes nageoires,NA
@@ -162,6 +162,7 @@ Fraser River,Fleuve Fraser,NA
 Fraser Test,"Pêche d'essai, fleuve Fraser",NA
 Fraser Troll,"Fleuve Fraser, pêche à la traîne",NA
 Frequency,Fréquence,NA
+FSC,Pêche ASR,NA
 Gear,Engin,NA
 Geometric mean of hook and line CPUE (fish/set),Moyenne géométrique des CPUE à l’hameçon et à la ligne (poisson/ensemble),NA
 Geometric mean of trawl CPUE (kg/hr),Moyenne géométrique des CPUE du chalut (kg/h),NA
@@ -185,7 +186,7 @@ Healthy zone,Zone saine,NA
 Hecate Strait/Queen Charlotte Sound Sponge Reef Closures,Fermeture des récifs d'éponges siliceuses du détroit d'Hecate et du détroit de la Reine Charlotte,NA
 Herring,hareng,NA
 HG,HG,NA
-High,Élevé(e),NA
+High,Élevé,NA
 Hook and line,Hameçon et ligne,NA
 HR,TR,NA
 Immature,Immatures,NA
@@ -422,8 +423,8 @@ T'aaq. Comm.,"T'aaq., pêche comm.",NA
 Technical Report,Rapport technique,NA
 Temperature,Temperature,NA
 Term Pups,Petits à la taille du terme,NA
-Test,Essai,NA
-Test fishery,Pêche d'essai,NA
+Test,Pêche d'essai,NA
+Test fishery,"Pêche d'essai""""",NA
 Thornback Sculpin,chabot à dos épineux,NA
 Threadfin Grenadier,grenadier à filaments,NA
 Threadfin Sculpin,icéline filamenteuse,NA
@@ -431,7 +432,7 @@ Threatened,Menacée,NA
 Tiger Rockfish,sébaste-tigre,NA
 Tons,Tonnes,NA
 Tope Shark,milandre,NA
-"Total annual return abundance, by MU","Abondance annuelle totale des remontes, par zone de gestion",NA
+Total annual return abundance,by SMU,Abondance annuelle totale des remontes
 Total ER Index,Indice du taux d’exploitation total,NA
 Total ERI,Indice du taux d’exploitation total,NA
 Total marine catch,by fishery,Total des prises marines
