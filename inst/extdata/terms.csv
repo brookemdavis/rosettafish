@@ -26,6 +26,8 @@ Average F,F moyen,NA
 Average M,M moyen,NA
 Average Proportion of ERI Attributed to Each Sector in Zone 1 Years,Proportion moyenne de l’indice du taux d’exploitation attribuée à chaque secteur dans les années de la zone 1,NA
 Average Relative Change in ERI from 2009-2011 to Zone 1 Years,Changement relatif moyen de l’indice du taux d’exploitation de 2009­2011 dans les années de la zone 1,NA
+Avg.,Moy.,NA
+Avg. Weekly Return to Fraser,Remontée moyenne hebdomadaire au Fraser,NA
 Basking Shark,requin-pèlerin,NA
 Big Skate,raie biocellée,NA
 Bigfin Eelpout,lycode à grandes nageoires,NA
@@ -92,6 +94,7 @@ COSEWIC Status Report,Rapports de situation du COSEPAC,NA
 CPUE,PUE,NA
 Criterion,Critère,NA
 Critical zone,Zone critique,NA
+CTC Time Series,Séries chronologiques du CTSQ,NA
 Cumulative Effects Assessment Steps,Étapes de l’évaluation des effets cumulatifs,NA
 Cumulative Probability,Probabilité cumulative,NA
 Curlfin Sole,plie à nageoires frisées,NA
@@ -102,8 +105,10 @@ CWT Age,Âge MMC,NA
 Darkblotched Rockfish,sébaste tacheté,NA
 Data,Données,NA
 Data Deficient,Données insuffisantes,NA
+"Data Quality Across SMUs, Over Time",Qualité des données sur les ZG,au fil du temps
+Data Quality Classes,Catégories de qualité des données,NA
 Deacon Rockfish,sébaste Deacon,NA
-Dec,dec,NA
+Dec,déc,NA
 Decrease,Diminution,NA
 Deepsea Sole,plie de profondeur,NA
 Density,Densité,NA
@@ -111,6 +116,7 @@ Depth,Profondeur,ᐃᑎᔪᖅ
 Design based,Axé sur la conception,NA
 Deviance,Déviance,NA
 Deviance as a Function of ERI,de déviance en fonction de l’indice du taux d’exploitation,NA
+Deviance as a Function of Escapement,Déviance comme fonction de l’échappée,NA
 Deviance Over Time,Déviance au fil du temps,NA
 Deviation from expected biomass in log space,Écart par rapport à la biomasse prévue dans l’espace de relevé,NA
 Direction of Change,Orientation du changement,NA
@@ -135,6 +141,7 @@ ER Index,Indice du taux d’exploitation,NA
 ERI Time Series,Série chronologique de l’indice du taux d’exploitation,NA
 Escapement,Échappées,NA
 Escapement estimates,Estimations de l’échappée,NA
+Escapement Time Series,Série chronologique sur les échappées,NA
 "Estimated Fraser River run size, by MU","Estimation de la remonte du fleuve Fraser, par zone de gestion",NA
 "Estimated in­river catch, by SMU & Fishery","Prises estimées dans les cours d’eau, par ZG et par pêche",NA
 "Estimated marine catch, by SMU & fishery","Prises marines estimées, par zone de gestion et par pêche",NA
@@ -269,6 +276,8 @@ Number-at-age,Nombre selon l’âge,NA
 Number at age,Nombre selon l’âge,NA
 Number of age-2 recruits,Nombre de recrues d’âge 2,NA
 Number of hooks returned each year,Nombre d’hameçons récupérés chaque année,NA
+Number of Sites,Nombre de sites,NA
+NWVI,NOIV,NA
 Objective,Objectif,NA
 Oct,oct,NA
 of age,d'âge,NA
@@ -307,6 +316,7 @@ Projection: BC Albers (NAD 1983),Projection : BC Albers (NAD 1983),NA
 Proportion,Proportion,NA
 Proportion Age,Proportion d’âge,NA
 Proportion at Age,Proportion selon l’âge,NA
+Proportion of Catch,Proportion des prises,NA
 Proportion of Fish,Proportion de Poisson,NA
 Prowfish,zaprora,NA
 Puget Sound Rockfish,sébaste paradeur,NA
@@ -342,6 +352,8 @@ Roughtail Skate,raie à queue rude,NA
 RR,RR,NA
 RR-Based ERI,Indice du taux d’exploitation basé sur la reconstitution des remontes,NA
 RR-Based ERI vs. CWT-Based ERI,Indice du taux d’exploitation fondé sur la reconstitution des remontes par rapport à un indice du taux d’exploitation obtenu par les MMC,NA
+RR Input Escapement,Saisie du TER – Échappées,NA
+RR Input vs. CTC Time Series,Saisie du RR et séries chrono. du CTSQ,NA
 Run Reconstruction Model,Modèle de reconstitution des remontes,NA
 Running Ripe,Pleins et actifs,NA
 Sablefish,morue charbonnière,NA
@@ -363,6 +375,7 @@ Secondary age (years),Âge secondaire (ans),NA
 Section,Section,NA
 Seine,Senne,NA
 Sep,sep,NA
+Sept,sept,NA
 Series,Séries,NA
 Sex,Sexe,NA
 SGaan Kinghlas Bowie Seamount Marine Protected Area,Zone de protection marine du mont sous-marin Bowie (SGaan Kinghlas),NA
@@ -407,7 +420,7 @@ Strait of Georgia/Howe Sound Sponge Reef Closures,Fermeture des pêches dans les
 Stream-Type,Type cours d’eau,NA
 Stripetail Rockfish,sébaste à queue rayée,NA
 Sturgeon Poacher,agone-esturgeon,NA
-Summary of RR vs CWT Estimated ERI,Sommaire de la reconstitution des remontes par rapport\nà l’estimation de l’indice du taux d’exploitation par MMC,NA
+Summary of RR vs CWT Estimated ERI,Sommaire des ITE estimés d’après la RR et d’après le MMC,NA
 Summer,Été,NA
 Surface,Surface,NA
 Surface survey,Relevé en surface,NA
@@ -418,6 +431,7 @@ Survey period,Période du relevé,NA
 Survey relative biomass indices,Indices de la biomasse du relevés,NA
 Survey samples,Échantillons de relevé,NA
 Survey specimen counts,Décompte des spécimens du relevé,NA
+SWVI,SOIV,NA
 Synoptic survey biomass,Biomasse du relevé synoptique,NA
 T'aaq. Comm.,"T'aaq., pêche comm.",NA
 Technical Report,Rapport technique,NA
@@ -439,8 +453,15 @@ Total marine catch,by fishery,Total des prises marines
 Trap,Casier,NA
 Twoline Eelpout,lycode à deux lignes,NA
 Type,Type,NA
+Type-1: Fence or Fishway with virtually no bypass,Type-1 : Barrière ou passe migratoire avec pratiquement aucune dérivation,NA
+Type-1B: Fence with significant breach,Type-1B : Barrière avec rupture importante,NA
+Type-2: Mark-recapture,Type-2 : Marquage-recapture,NA
+Type-3: High effort (5 or more surveys),Type-3 : Efforts importants (5 relevés ou plus),NA
+"Type-4: Moderate effort (1-4 surveys), known survey method",Type-4 : Effort modéré (1-4 relevés),connaître la méthode de relevé
+Type-5: Low effort (1 survey) inconsistent or poorly executed methods,"Type-5 : Faible effort (1 relevé), méthodes peu uniformes ou mal exécutées",NA
 Uncertainty Level,Degré d’incertitude,NA
 Unclipped Spawners,Géniteurs à la Nageoire Non Coupée,NA
+UNK: Unknown how estimate was generated,INC : On ne sait pas comment l’estimation a été produite,NA
 Unknown/trawl,Inconnu/chalut,NA
 Upper Fraser,Haut Fraser,NA
 USR,RSS,NA
@@ -453,6 +474,7 @@ Wattled Eelpout,lycode tressée,NA
 WCVI,COIV,NA
 WCVI Rec.,"Pêche réc., COIV",NA
 WCVI Troll,"Pêche à la traîne, COIV",NA
+Week Start Day,Date de début de la semaine,NA
 Weight,Poids,NA
 Weight-at-age,Poids selon l’âge,NA
 Weight at age,Poids selon l’âge,NA
@@ -469,3 +491,5 @@ Yellowmouth Rockfish,sébaste à bouche jaune,NA
 Yellowtail Rockfish,sébaste à queue jaune,NA
 Yield,Rendement,NA
 Yolk Sac Pups,Petits avec sac vitellus,NA
+Zone 1 Years,Années de la zone 1,NA
+Zone 2 Years,Années de la zone 1,NA
