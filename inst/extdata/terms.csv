@@ -24,8 +24,8 @@ Aurora Rockfish,sébaste aurore,NA
 Average Annual Variability,Variabilité annuelle moyenne,NA
 Average F,F moyen,NA
 Average M,M moyen,NA
-Average Proportion of ERI Attributed to Each Sector in Zone 1 Years,Proportion moyenne de l’indice du taux d’exploitation attribuée à chaque secteur dans les années de la zone 1,NA
-Average Relative Change in ERI from 2009-2011 to Zone 1 Years,Changement relatif moyen de l’indice du taux d’exploitation de 2009­2011 dans les années de la zone 1,NA
+Average Proportion of ERI Attributed to Each Sector in Zone 1 Years,Proportion moyenne de l’ITE attribuée à chaque secteur dans les années de la zone 1,NA
+Average Relative Change in ERI from 2009-2011 to Zone 1 Years,Changement relatif moyen de l’ITE de 2009­2011 dans les années de la zone 1,NA
 Basking Shark,requin-pèlerin,NA
 Big Skate,raie biocellée,NA
 Bigfin Eelpout,lycode à grandes nageoires,NA
@@ -70,11 +70,11 @@ Chilipepper,sébaste de Goode,NA
 Chilko River,Rivière Chilko,NA
 China Rockfish,sébaste à bandes jaunes,NA
 Chinook,les quinnats,NA
-Clipped Spawners,Frayeurs à la Nageoire Coupée,NA
+Clipped Spawners,Géniteurs à la Nageoire Coupée,NA
 Coastwide,Ensemble de la côte,NA
 Cohort Marine Survival for Nicola,Survie en mer de la cohorte du ruisseau Nicola,NA
 Cohort Survival,Survie de la cohorte,NA
-Commercial,Pêche commerciale,NA
+Commercial,Pêche comm.,NA
 Commercial bottom trawl CPUE,PUE chalut de fond commercial,NA
 Commercial catch,Prises commerciales,NA
 Commercial H & L CPUE,PUE commercial H & L,NA
@@ -96,7 +96,7 @@ Cumulative Effects Assessment Steps,Étapes de l’évaluation des effets cumula
 Cumulative Probability,Probabilité cumulative,NA
 Curlfin Sole,plie à nageoires frisées,NA
 CWT,MMC,NA
-CWT-Based ERI,Indice du taux d’exploitation obtenu par les MMC,NA
+CWT-Based ERI,ITE obtenu par les MMC,NA
 CWT age,âge MMC,NA
 CWT Age,Âge MMC,NA
 Darkblotched Rockfish,sébaste tacheté,NA
@@ -110,7 +110,7 @@ Density,Densité,NA
 Depth,Profondeur,ᐃᑎᔪᖅ
 Design based,Axé sur la conception,NA
 Deviance,Déviance,NA
-Deviance as a Function of ERI,de déviance en fonction de l’indice du taux d’exploitation,NA
+Deviance as a Function of ERI,de déviance en fonction de l’ITE,NA
 Deviance Over Time,Déviance au fil du temps,NA
 Deviation from expected biomass in log space,Écart par rapport à la biomasse prévue dans l’espace de relevé,NA
 Direction of Change,Orientation du changement,NA
@@ -132,10 +132,10 @@ Endeavour Hydrothermal Vents Marine Protected Area,Zone de protection marine du 
 English Sole,carlottin anglais,NA
 Equipment,équipement,NA
 ER Index,Indice du taux d’exploitation,NA
-ERI Time Series,Série chronologique de l’indice du taux d’exploitation,NA
+ERI Time Series,Série chronologique de l’ITE,NA
 Escapement,Échappées,NA
 Escapement estimates,Estimations de l’échappée,NA
-"Estimated Fraser River run size, by MU","Estimation de la remonte du fleuve Fraser, par zone de gestion",NA
+"Estimated Fraser River run size, by SMU","Estimation de la remonte du fleuve Fraser, par zone de gestion",NA
 "Estimated in­river catch, by SMU & Fishery","Prises estimées dans les cours d’eau, par ZG et par pêche",NA
 "Estimated marine catch, by SMU & fishery","Prises marines estimées, par zone de gestion et par pêche",NA
 Exploitation Rate Index (5%),Indice du taux d’exploitation (5 %),NA
@@ -153,11 +153,11 @@ Flathead Sole,balai du Japon,NA
 for,pour,NA
 Fork Length,Longueur à la Fourche,NA
 Fork Length (cm),Longueur à la Fourche (cm),NA
-Fraser Comm.,"Pêche commerciale, fleuve Fraser",NA
+Fraser Comm.,"Pêche comm., fleuve Fraser",NA
 Fraser EO,"PÉ, fleuve Fraser",NA
 Fraser FSC,"Pêche ASR, fleuve Fraser",NA
 Fraser Net,"Fleuve Fraser, filet",NA
-Fraser Rec.,"Pêche réc., fleuve Fraser",NA
+Fraser Rec.,"Pêche récr., fleuve Fraser",NA
 Fraser River,Fleuve Fraser,NA
 Fraser Test,"Pêche d'essai, fleuve Fraser",NA
 Fraser Troll,"Fleuve Fraser, pêche à la traîne",NA
@@ -202,8 +202,8 @@ IPHC Report of Assessment and Research Activities,Rapport de la CIFP sur les act
 IPHC survey catch rate,Taux de capture du relevé IPHC,NA
 Jan,jan,NA
 JDF,JDF,NA
-JDF Rec.,"Pêche réc.,JDF",NA
-Johnstone Strait Rec.,"Pêche réc.,détroit de Johnstone",NA
+JDF Rec.,"Pêche récr.,JDF",NA
+Johnstone Strait Rec.,"Pêche récr.,détroit de Johnstone",NA
 Jul,juil,NA
 Jun,juin,NA
 Kelp Greenling,sourcil de varech,NA
@@ -255,7 +255,7 @@ MSY,RMS,NA
 MW,CP,NA
 NBC,N.C.-B.,NA
 NBC Abundance Ratio,Ratio d’abondance N.C.-B.,NA
-NBC Rec.,"Pêche réc., N.C.-B.",NA
+NBC Rec.,"Pêche récr., N.C.-B.",NA
 NBC Troll,"Pêche à la traîne, N.C.-B.",NA
 Nicola River,Ruisseau Nicola,NA
 No Status,Sans statut,NA
@@ -340,8 +340,8 @@ Rougheye/Blackspotted,œil épineux/taches noires,NA
 Rougheye/Blackspotted Rockfish Complex,complexe du sébaste à œil épineux/sébaste à taches noires,NA
 Roughtail Skate,raie à queue rude,NA
 RR,RR,NA
-RR-Based ERI,Indice du taux d’exploitation basé sur la reconstitution des remontes,NA
-RR-Based ERI vs. CWT-Based ERI,Indice du taux d’exploitation fondé sur la reconstitution des remontes par rapport à un indice du taux d’exploitation obtenu par les MMC,NA
+RR-Based ERI,ITE fondé sur la RR,NA
+RR-Based ERI vs. CWT-Based ERI,ITE fondé sur la RR contre \n un ITE obtenu par les MMC,NA
 Run Reconstruction Model,Modèle de reconstitution des remontes,NA
 Running Ripe,Pleins et actifs,NA
 Sablefish,morue charbonnière,NA
@@ -384,7 +384,7 @@ Spatial random effects,Effets aléatoires spatiaux,NA
 Spatial random effects only,Effets aléatoires spatiaux seulement,NA
 Spatiotemporal random effects only,Effets aléatoires spatio-temporels seulement,NA
 Spawn index,Indice du frai,NA
-Spawning Age,Âge de frayer,NA
+Spawning Age,Âge de frai,NA
 Spawning biomass,Biomasse reproductrice,NA
 Spawning biomass production,Production de la biomasse du stock reproducteur,NA
 Spawning stock biomass,Biomasse reproductrice,NA
@@ -402,12 +402,12 @@ SSB,BSR,NA
 SSB/Blim,BSR/Blim,NA
 Starry Flounder,flet étoilé,NA
 Strait of Georgia,Détroit de Georgie,NA
-Strait of Georgia Rec.,"Pêche réc., détroit de Georgie",NA
+Strait of Georgia Rec.,"Pêche récr., détroit de Georgie",NA
 Strait of Georgia/Howe Sound Sponge Reef Closures,Fermeture des pêches dans les récifs d'éponges du détroit de Georgie et de la baie Howe,NA
 Stream-Type,Type cours d’eau,NA
 Stripetail Rockfish,sébaste à queue rayée,NA
 Sturgeon Poacher,agone-esturgeon,NA
-Summary of RR vs CWT Estimated ERI,Sommaire de la reconstitution des remontes par rapport\nà l’estimation de l’indice du taux d’exploitation par MMC,NA
+Summary of RR vs CWT Estimated ERI,Sommaire des ITE estimés d’après la RR et d’après le MMC,NA
 Summer,Été,NA
 Surface,Surface,NA
 Surface survey,Relevé en surface,NA
@@ -451,7 +451,7 @@ Vulnerable biomass,Biomasse vulnerable,NA
 Walleye Pollock,goberge,NA
 Wattled Eelpout,lycode tressée,NA
 WCVI,COIV,NA
-WCVI Rec.,"Pêche réc., COIV",NA
+WCVI Rec.,"Pêche récr., COIV",NA
 WCVI Troll,"Pêche à la traîne, COIV",NA
 Weight,Poids,NA
 Weight-at-age,Poids selon l’âge,NA
